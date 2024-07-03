@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29644f33dd35d746b5101b101af222e, type: 3}
+  m_Name: TranslationData
+  m_EditorClassIdentifier: 
+  id: 2
+  name: /i/
+  videoPath: 02.mp4
+  hintDescription: "Nguy\xEAn \xE2m /i/ l\xE0 \xE2m cao-tr\u01B0\u1EDBc. L\u01B0\u1EE1i
+    c\u1EE7a b\u1EA1n ph\u1EA3i h\u01B0\u1EDBng l\xEAn tr\xEAn v\xE0 l\u1EC7ch v\u1EC1
+    ph\xEDa tr\u01B0\u1EDBc trong khoang mi\u1EC7ng. \u0110\xF4i m\xF4i c\u1EE7a
+    b\u1EA1n ph\u1EA3i c\u0103ng l\xEAn v\xE0 kh\xF3e mi\u1EC7ng h\u01A1i k\xE9o
+    d\xE0i ra. M\xF4i c\u1EE7a b\u1EA1n ch\u1EC9 n\xEAn m\u1EDF m\u1ED9t ch\xFAt.
+    Rung d\xE2y thanh qu\u1EA3n c\u1EE7a b\u1EA1n khi gi\u1EEF mi\u1EC7ng \u1EDF
+    v\u1ECB tr\xED n\xE0y."
+  audioUrl:
+  - ship.mp3
+  imageUrl:
+  - ship.png
+  pronounceText:
+  - "/\u0283\u026Ap/"
+  meaningText:
+  - ship
