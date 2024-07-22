@@ -3,6 +3,7 @@
  Download Link: https://www.mediafire.com/file/m3uwdut5gbd0g7j/IPA_SIMULATION_setup%2528x86%2529.exe/file
  </br>
  <h1>Menu Page</h1>
+  </br>
 ![alt text](https://github.com/Tizun71/IPA-Simulation-Education-Product/blob/main/media/1.png)
 </br>
 <h1>Detail Page</h1>
