@@ -7,14 +7,18 @@
   
 ![alt text](https://github.com/Tizun71/IPA-Simulation-Education-Product/blob/main/media/1.png)
 </br>
-<h1>Detail Page</h1>
+
+ <h1>IPA Page</h1>
 
 ![alt text](https://github.com/Tizun71/IPA-Simulation-Education-Product/blob/main/media/2.png)
 </br>
-<h1>Game Page</h1>
+<h1>Detail Page</h1>
+
 
 ![alt text](https://github.com/Tizun71/IPA-Simulation-Education-Product/blob/main/media/3.png)
 </br>
+<h1>Game Page</h1>
+
 ![alt text](https://github.com/Tizun71/IPA-Simulation-Education-Product/blob/main/media/4.png)
 </br>
 ![alt text](https://github.com/Tizun71/IPA-Simulation-Education-Product/blob/main/media/5.png)
